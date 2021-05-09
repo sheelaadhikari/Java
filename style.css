@@ -1,24 +1,62 @@
-p {
-    color: red;
-}
+/* p { */
 
-#green-text {
-    color: green;
-    font-size: medium;
-}
 
-.brown-text {
-    color: grey;
-    height: auto;
-}
+/* color: red; */
 
-#h {
-    text-decoration: underline;
-    font-size: 50px;
-}
 
-.underline-h {
-    color: goldenrod;
-    font-size: medium;
-    font-weight: bold;
+/* } */
+
+
+/* /* #green-text { */
+
+
+/* color: green; */
+
+
+/* font-size: medium; */
+
+
+/* /* } */
+
+
+/* /* .brown-text { */
+
+
+/* color: grey;making text grey */
+
+
+/* height: auto; */
+
+
+/* } */
+
+
+/* /* #h { */
+
+
+/* text-decoration: underline; */
+
+
+/* font-size: 50px; */
+
+
+/* } */
+
+
+/* /* .underline-h { */
+
+
+/* color: goldenrod; */
+
+
+/* font-size: medium; */
+
+
+/* font-weight: bold; */
+
+
+/* } */
+
+#background {
+    background-color: honeydew;
 }
