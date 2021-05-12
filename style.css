@@ -1,6 +1,27 @@
-#border {
-    /* border-style: dotted solid; */
-    /* border-width: 5px 10px; */
-    /* border-color: blue; */
-    border: 10px dotted green;
+/* #border { */
+
+
+/* border-style: dotted solid; */
+
+
+/* border-width: 5px 10px; */
+
+
+/* border-color: blue; */
+
+
+/* border: 10px dotted green; */
+
+
+/* border-radius:5px; */
+
+body {
+    border: 5px solid chartreuse;
+    width: 500px;
+}
+
+#div-1 {
+    background-color: blueviolet;
+    height: 70%;
+    width: 70%;
 }
