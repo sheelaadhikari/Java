@@ -6,9 +6,11 @@
     color: chartreuse;
     /* text-align: center; */
     text-align: justify;
+    text-decoration: line-through;
 }
 
 #image-1 {
     border: 3px dotted red;
     border-image-width: 30px;
+    vertical-align: middle;
 }
